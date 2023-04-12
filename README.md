@@ -1,6 +1,6 @@
 # My Reading Journal
 
-Hi my name is Aaron from Seattle, and I'm **very** excited to take off on this coding journey :rocket::rocket::moon:
+Hi my name is Aaron from Seattle, and I'm **very** excited to take off on this coding journey 🚀🚀 :rocket: :rocket: :moon:
 
 Link to [my github portfolio](https://github.com/amcwustl)
 
