@@ -8,7 +8,7 @@ Link to [my github portfolio](https://github.com/amcwustl)
 > Go to [Markdown-Notes page](Markdown-Notes.md)
 
 ### Growth Mindset:
-Growth mindset to me means keeping a positive frame of mind towards the challenges of learning new skills.  It means not getting frustrated when things don't click immediately, and understanding that with perseverance, all obstacles can be overcome.
+Growth mindset to me means keeping a positive frame of mind towards the challenges of learning new skills.  It means not getting frustrated when things don't click immediately, and understanding that with perseverance, all obstacles can be overcome!
 
 ***3 Reminders to stay in a growth mindset:***
 
