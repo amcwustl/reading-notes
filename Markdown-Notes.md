@@ -1,3 +1,9 @@
+---
+title: Markdown Reading Notes
+layout: template
+filename: Markdown-Notes.md
+--- 
+
 # Class 1 Markdown Reading Notes
 
 #### What is Markdown?
