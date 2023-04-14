@@ -4,6 +4,9 @@ Hi my name is Aaron from Seattle, and I'm **very** excited to take off on this c
 
 Link to [my github portfolio](https://github.com/amcwustl)
 
+### Class 1:
+> Go to [Markdown-Notes page](Markdown-Notes.md)
+
 ### Growth Mindset:
 Growth mindset to me means keeping a positive frame of mind towards the challenges of learning new skills.  It means not getting frustrated when things don't click immediately, and understanding that with perseverance, all obstacles can be overcome.
 
