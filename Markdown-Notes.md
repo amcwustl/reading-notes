@@ -18,7 +18,7 @@
 > You only need one "#" symbol to create the largest heading
 
 #### How many do you need to create the smallest heading?
-> Four "#" symbols will create the smallest heading
+> Six "#" symbols will create the smallest heading
 
 #### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 > When making text bold or italicized, it is best practice to use the "\*" symbol
