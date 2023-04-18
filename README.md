@@ -19,7 +19,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 
 ## Code 201 Notes
 
-- Class 1: (Link to be added)
+- Class 1: [Class 1](Class-1-201.md)
 - Class 2: (Link to be added)
 - Class 3: (Link to be added)
 - Class 4: (Link to be added)
