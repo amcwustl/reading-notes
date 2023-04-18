@@ -1,4 +1,4 @@
-# Class 3 Revions and the Cloud Reading Notes
+# Class 3 Revisions and the Cloud Reading Notes
 
 ## General Notes
 
