@@ -29,7 +29,7 @@ The four features to look for are:
 - ls: List.  Will show us a list of what is in our current working directory.
 - cd: Change directory.  Moves us to another directory.
 - mkdir: Make Directory.  Creates a new directory.
-- touch: used to create a new file with no content as the default.
+- touch: used to create a new file.
 
 #### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 - cd projects
@@ -38,8 +38,8 @@ The four features to look for are:
 > Creates a new directory called "new-project"
 - touch new-project/newfile.md
 > Creates a new file in the new-project directory called "newfile.md"
-- cd .. : This changes directory to the parent directory of our current location
-> Changes directory to the parent directory
+- cd .. 
+> Changes directory to the parent directory of our current location
 - ls projects/new-project
 > Lists all the files within the new-project directory
 
