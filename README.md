@@ -12,10 +12,10 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 2: [Coders-Computer](Coders-Computer.md)
 - Class 3: [Revisions and the Cloud](Revisions-Cloud.md)
 - Class 4: [Class 4](Class-4-102.md)
-- Class 5: (Class-5-102.md)
-- Class 6: (Class-6-102.md)
-- Class 7: (Class-7-102.md)
-- Class 8: (Class-8-102.md)
+- Class 5: [Class 5](Class-5-102.md)
+- Class 6: [Class 6](Class-6-102.md)
+- Class 7: [Class 7](Class-7-102.md)
+- Class 8: [Class 8](Class-8-102.md)
 
 ## Code 201 Notes
 
