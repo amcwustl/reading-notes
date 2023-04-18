@@ -10,7 +10,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 
 - Class 1: [Markdown-Notes](Markdown-Notes.md)
 - Class 2: [Coders-Computer](Coders-Computer.md)
-- Class 3: (Link to be added)
+- Class 3: [Revisions and the Cloud](Revisions-Cloud.md)
 - Class 4: (Link to be added)
 - Class 5: (Link to be added)
 - Class 6: (Link to be added)
