@@ -2,9 +2,9 @@
 
 ## General Notes
 
-    Version control is a system that allows you to revisit various file versions by recording changes.  This allows for mistakes to be easily rectified.
-    
-    Distributed version control rectifed earlier problems with the single point of failure of one server going down.  DVCS allows for reation of mirrored repositories.
+Version control is a system that allows you to revisit various file versions by recording changes.  This allows for mistakes to be easily rectified.
+
+Distributed version control rectifed earlier problems with the single point of failure of one server going down.  DVCS allows for reation of mirrored repositories.
 
 ## Answer
 
