@@ -6,7 +6,7 @@ Link to [my github portfolio](https://github.com/amcwustl)
 
 This site contains my reading notes from Class 102 and Class 201 at Code Fellows.
 
-## Code 102 Notes:
+## Code 102 Notes
 
 - Class 1: [Markdown-Notes](Markdown-Notes.md)
 - Class 2: [Coders-Computer](Coders-Computer.md)
@@ -16,7 +16,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 6: (Link to be added)
 - Class 8: (Link to be added)
 
-## Code 201 Notes:
+## Code 201 Notes
 
 - Class 1: (Link to be added)
 - Class 2: (Link to be added)
