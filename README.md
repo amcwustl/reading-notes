@@ -13,7 +13,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 3: [Revisions and the Cloud](102-Notes/Revisions-Cloud.md)
 - Class 4: [Structure Web Pages with HTML](102-Notes/Class-4-102.md)
 - Class 5: [Design Web Pages with CSS](102-Notes/Class-5-102.md)
-- Class 6: [Class 6](102-Notes/Class-6-102.md)
+- Class 6: [Dynamic Web Pages with JavaScript](102-Notes/Class-6-102.md)
 - Class 7: [Class 7](102-Notes/Class-7-102.md)
 - Class 8: [Class 8](102-Notes/Class-8-102.md)
 
