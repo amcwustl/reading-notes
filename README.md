@@ -11,7 +11,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 1: [Markdown-Notes](102-Notes/Markdown-Notes.md)
 - Class 2: [Coders-Computer](102-Notes/Coders-Computer.md)
 - Class 3: [Revisions and the Cloud](102-Notes/Revisions-Cloud.md)
-- Class 4: [Class 4](102-Notes/Class-4-102.md)
+- Class 4: [Structure Web Pages with HTML](102-Notes/Class-4-102.md)
 - Class 5: [Class 5](102-Notes/Class-5-102.md)
 - Class 6: [Class 6](102-Notes/Class-6-102.md)
 - Class 7: [Class 7](102-Notes/Class-7-102.md)
