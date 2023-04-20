@@ -15,7 +15,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 5: [Design Web Pages with CSS](102-Notes/Class-5-102.md)
 - Class 6: [Dynamic Web Pages with JavaScript](102-Notes/Class-6-102.md)
 - Class 7: [Programming with JavaScript](102-Notes/Class-7-102.md)
-- Class 8: [Class 8](102-Notes/Class-8-102.md)
+- Class 8: [Operators and Loops](102-Notes/Class-8-102.md)
 
 ## Code 201 Notes
 
