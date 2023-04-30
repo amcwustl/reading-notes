@@ -1,4 +1,4 @@
-# My Reading Journal
+# Reading Notes
 
 Hi my name is Aaron from Seattle, and I'm **very** excited to take off on this coding journey 🚀🚀🚀
 
@@ -6,7 +6,7 @@ Link to [my github portfolio](https://github.com/amcwustl)
 
 This site contains my reading notes from Class 102 and Class 201 at Code Fellows.
 
-## Code 102 Notes
+## Code 102 Notes - Intro to Software Development
 
 - Class 1: [Markdown-Notes](102-Notes/Markdown-Notes.md)
 - Class 2: [Coders-Computer](102-Notes/Coders-Computer.md)
@@ -17,7 +17,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 7: [Programming with JavaScript](102-Notes/Class-7-102.md)
 - Class 8: [Operators and Loops](102-Notes/Class-8-102.md)
 
-## Code 201 Notes
+## Code 201 Notes - Foundations of Software Development
 
 - Class 1: [Class 1](201-Notes/Class-1-201.md)
 - Class 2: [Class 2](201-Notes/Cass-2-201.md)
@@ -34,3 +34,11 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 13: [Class 13](201-Notes/Class-13-201.md)
 - Class 14: [Class 14](201-Notes/Class-14-201.md)
 - Class 15: [Class 15](201-Notes/Class-15-201.md)
+
+## Code 301 - Intermediate Software Development
+
+- (links to be added)
+
+## Code 401 - Advanced Software Development
+
+- (links to be added)
