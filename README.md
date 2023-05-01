@@ -20,7 +20,6 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 ## Code 201 Notes - Foundations of Software Development
 
 - Class 1: [Class 1](201-Notes/Class-1-201.md)
-- Class 2: [Test Link](201-Notes/Class-2-201.md)
 - Class 2: [Basics of HTML, CSS, and JS](201-Notes/Class-2-201.md)
 - Class 3: [Class 3](201-Notes/Class-3-201.md)
 - Class 4: [Class 4](201-Notes/Class-4-201.md)
