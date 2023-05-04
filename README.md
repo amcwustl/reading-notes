@@ -23,7 +23,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 2: [Basics of HTML, CSS, and JS](201-Notes/Class-2-201.md)
 - Class 3: [HTML Lists, Control Flow with JS, and the CSS Box Model](201-Notes/Class-3-201.md)
 - Class 4: [HTML Links, JS Functions, Intro to CSS Layout](201-Notes/Class-4-201.md)
-- Class 5: [Class 5](201-Notes/Class-5-201.md)
+- Class 5: [Images, Color, Text](201-Notes/Class-5-201.md)
 - Class 6: [Class 6](201-Notes/Class-6-201.md)
 - Class 7: [Class 7](201-Notes/Class-7-201.md)
 - Class 8: [Class 8](201-Notes/Class-8-201.md)
