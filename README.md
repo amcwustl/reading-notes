@@ -29,7 +29,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 8: [CSS Layout](201-Notes/Class-8-201.md)
 - Class 9: [Forms and JS Events](201-Notes/Class-9-201.md)
 - Class 10: [Debugging](201-Notes/Class-10-201.md)
-- Class 11: [Class 11](201-Notes/Class-11-201.md)
+- Class 11: [Audio, Video, and Images](201-Notes/Class-11-201.md)
 - Class 12: [Class 12](201-Notes/Class-12-201.md)
 - Class 13: [Class 13](201-Notes/Class-13-201.md)
 - Class 14: [Class 14](201-Notes/Class-14-201.md)
