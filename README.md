@@ -34,6 +34,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 13: [Local Storage on Websites](201-Notes/Class-13-201.md)
 - Class 14: [CSS Transitions and Animations](201-Notes/Class-14-201.md)
 - Class 15: [Class 15](201-Notes/Class-15-201.md)
+- Bonus: [Psychological Safety](201-Notes/Class-14b-201.md)
 
 ## Code 301 - Intermediate Software Development
 
