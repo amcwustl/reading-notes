@@ -38,7 +38,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 
 ## Code 301 - Intermediate Software Development
 
-- (links to be added at future date)
+- Class 1: [Introduction to React and Compontents](301-Notes/Class-1-301.md)
 
 ## Code 401 - Advanced Software Development
 
