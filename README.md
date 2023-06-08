@@ -41,6 +41,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 1: [Introduction to React and Compontents](301-Notes/Class-1-301.md)
 - Class 2: [State and Props](301-Notes/Class-2-301.md)
 - Class 3: [Passing Functions as Props](301-Notes/Class-3-301.md)
+- Class 4: [React and Forms](301-Notes/Class-4-301.md)
 
 ## Code 401 - Advanced Software Development
 
