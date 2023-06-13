@@ -44,6 +44,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 4: [React and Forms](301-Notes/Class-4-301.md)
 - Class 5: [Putting It All Together](301-Notes/Class-5-301.md)
 - Class 6: [REST](301-Notes/Class-6-301.md)
+- Class 7: [NODE.JS](301-Notes/Class-7-301.md)
 
 ## Code 401 - Advanced Software Development
 
