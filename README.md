@@ -46,6 +46,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 6: [REST](301-Notes/Class-6-301.md)
 - Class 7: [NODE.JS](301-Notes/Class-7-301.md)
 - Class 8: [API's](301-Notes/Class-8-301.md)
+- Class 9: [Functional Programming](301-Notes/Class-8-301.md)
 
 ## Code 401 - Advanced Software Development
 
