@@ -49,6 +49,7 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 9: [Functional Programming](301-Notes/Class-9-301.md)
 - Class 10: [In Memory Storage](301-Notes/Class-10-301.md)
 - Class 11: [MongoDB and Mongoose](301-Notes/Class-11-301.md)
+- Class 13: [More CRUD](301-Notes/Class-13-301.md)
 
 ## Code 401 - Advanced Software Development
 
