@@ -53,6 +53,6 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 14: [Diversity & Inclusion in the Tech Industry](301-Notes/Class-14-301.md)
 - Class 15: [Authentication](301-Notes/Class-15-301.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development in Java
 
-- (links to be added)
+- Class 0: [SQL and Relational Databases](401-Notes/Class-0-401.md)
