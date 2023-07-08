@@ -56,3 +56,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 ## Code 401 - Advanced Software Development in Java
 
 - Class 0: [SQL and Relational Databases](401-Notes/Class-0-401.md)
+- Class 0a: [Practice in the Terminal](401-Notes/Class-0a-401.md)
