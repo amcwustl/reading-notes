@@ -58,4 +58,5 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 0: [SQL and Relational Databases](401-Notes/Class-0-401.md)
 - Class 0a: [Practice in the Terminal](401-Notes/Class-0a-401.md)
 - Class 0b: [The Growth Mindset](401-Notes/Class-0b-401.md)
+- Class 0c: [The Growth Mindset](401-Notes/Class-0c-401.md)
 - Class 1: [Class 1 Readings](401-Notes/Class-1-401.md)
