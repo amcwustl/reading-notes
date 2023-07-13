@@ -63,3 +63,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 1: [Class 1 Readings](401-Notes/Class-1-401.md)
 - Class 2: [Java Imports Loops and Arrays](401-Notes/Class-2-401.md)
 - Class 3: [Primitives Exceptions and Using Scanner](401-Notes/Class-3-401.md)
+- Class 4: [Java Objects and Classes, Binary + Hex](401-Notes/Class-4-401.md)
