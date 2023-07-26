@@ -67,4 +67,6 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 6: [Java OO Tutorial, Static, and Singleton](401-Notes/Class-6-401.md)
 - Class 8: [Dry Programming and MVP](401-Notes/Class-8-401.md)
 - Class 9: [HTTP](401-Notes/Class-9-401.md)
-- Class 10: [Spring](401-Notes/Class-9-401.md)
+- Class 10: [Spring](401-Notes/Class-10-401.md)
+- Class 12: [JPA Repositories](401-Notes/Class-12-401.md)
+- Class 13: [One to Many Relationships, Integration Testing](401-Notes/Class-13-401.md)
