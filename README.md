@@ -70,3 +70,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 10: [Spring](401-Notes/Class-10-401.md)
 - Class 12: [JPA Repositories](401-Notes/Class-12-401.md)
 - Class 13: [One to Many Relationships, Integration Testing](401-Notes/Class-13-401.md)
+- Class 14: [Hashing, bcrypt, jbCrypt](401-Notes/Class-14-401.md)
