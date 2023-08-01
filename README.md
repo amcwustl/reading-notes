@@ -72,3 +72,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 13: [One to Many Relationships, Integration Testing](401-Notes/Class-13-401.md)
 - Class 14: [Hashing, bcrypt, jbCrypt](401-Notes/Class-14-401.md)
 - Class 16: [Spring Security](401-Notes/Class-16-401.md)
+- Class 17: [OAuth](401-Notes/Class-17-401.md)
