@@ -73,3 +73,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 14: [Hashing, bcrypt, jbCrypt](401-Notes/Class-14-401.md)
 - Class 16: [Spring Security](401-Notes/Class-16-401.md)
 - Class 17: [OAuth](401-Notes/Class-17-401.md)
+- Class 18: [OAuth](401-Notes/Class-18-401.md)
