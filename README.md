@@ -77,3 +77,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 19: [Functional Programming](401-Notes/Class-19-401.md)
 - Class 26: [Android Fundamentals](401-Notes/Class-26-401.md)
 - Class 27: [More Android Basics](401-Notes/Class-27-401.md)
+- Class 28: [Recycler Views](401-Notes/Class-28-401.md)
