@@ -80,3 +80,5 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 28: [Recycler Views](401-Notes/Class-28-401.md)
 - Class 29: [Room](401-Notes/Class-29-401.md)
 - Class 30: [AWS Amplify](401-Notes/Class-30-401.md)
+- Class 32: [Amplify and Graph QL](401-Notes/Class-32-401.md)
+- Class 33: [GraphQL Relationships, CompletableFuture](401-Notes/Class-33-401.md)
