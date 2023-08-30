@@ -85,3 +85,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 34: [Publishing A Google App](401-Notes/Class-34-401.md)
 - Class 36: [Amplify and Cognito](401-Notes/Class-36-401.md)
 - Class 37: [S3 and Amplify](401-Notes/Class-37-401.md)
+- Class 39: [Location](401-Notes/Class-39-401.md)
