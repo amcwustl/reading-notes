@@ -86,3 +86,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 36: [Amplify and Cognito](401-Notes/Class-36-401.md)
 - Class 37: [S3 and Amplify](401-Notes/Class-37-401.md)
 - Class 39: [Location](401-Notes/Class-39-401.md)
+- Class 41: [Pinpoint and Polly](401-Notes/Class-41-401.md)
