@@ -88,3 +88,4 @@ This site contains my reading notes from Class 102 and Class 201 at Code Fellows
 - Class 39: [Location](401-Notes/Class-39-401.md)
 - Class 41: [Pinpoint and Polly](401-Notes/Class-41-401.md)
 - Class 42: [Google Admob](401-Notes/Class-42a-401.md)
+- Class 42b: [Ethics in Tech](401-Notes/Class-42b-401.md)
